@@ -1,0 +1,1 @@
+True signature for string
