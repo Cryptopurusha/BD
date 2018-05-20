@@ -15,6 +15,7 @@ Blockchain Developer programm:
 - for week 3 see
      - dao-scrypta repository for GILDA PRIMA token 
      - own ERC-20 emission on Smartz.io, see: 
+       https://smartz.io/instance/09ec3a0b2b9a5167c74fbd70
        https://rinkeby.etherscan.io/token/0x69c51f40df03ce07bd1511a536fe2816432fa9c4?a=0x9d02cd2b11f0a723189b53d709e954fc48757a5c
 
 - for week 4 see
